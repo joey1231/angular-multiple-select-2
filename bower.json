@@ -1,0 +1,42 @@
+{
+  "name": "angular-multiple-select",
+  "version": "1.0.0.1",
+  "main": [
+    "build/multiple-select.min.js",
+    "build/multiple-select.min.css"
+  ],
+  "authors": [
+    "joey dingcong <joeydngcng1231@gmail.com>"
+  ],
+  "description": "A complete Angularjs directive for multiple selection with suggestion list, like skills, locations etc.",
+  "moduleType": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joey1231/angular-multiple-select-2.git"
+  },
+  "keywords": [
+    "multiple",
+    "select",
+    "autocomplete",
+    "field",
+    "angular",
+    "multi",
+    "choose",
+    "field"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.9"
+  }
+  
+}
